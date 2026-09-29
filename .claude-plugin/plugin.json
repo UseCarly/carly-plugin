@@ -1,0 +1,15 @@
+{
+  "name": "carly",
+  "displayName": "Carly",
+  "version": "1.0.0",
+  "description": "Calendar, email, CRM, to-dos, files, and recurring workflows through your Carly account.",
+  "author": {
+    "name": "Carly AI",
+    "email": "support@calbotservice.com",
+    "url": "https://www.usecarly.com"
+  },
+  "homepage": "https://www.usecarly.com/mcp",
+  "repository": "https://github.com/UseCarly/carly-plugin",
+  "license": "MIT",
+  "keywords": ["calendar", "email", "crm", "scheduling", "workflows", "assistant"]
+}

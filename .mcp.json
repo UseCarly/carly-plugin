@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "carly": {
+      "type": "http",
+      "url": "https://carlyassistant.com/mcp"
+    }
+  }
+}
