@@ -11,5 +11,13 @@
   "homepage": "https://www.usecarly.com/mcp",
   "repository": "https://github.com/UseCarly/carly-plugin",
   "license": "MIT",
-  "keywords": ["calendar", "email", "crm", "scheduling", "workflows", "assistant"]
+  "privacyPolicyUrl": "https://calbotservice.com/privacy",
+  "keywords": [
+    "calendar",
+    "email",
+    "crm",
+    "scheduling",
+    "workflows",
+    "assistant"
+  ]
 }
