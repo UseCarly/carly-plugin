@@ -19,6 +19,9 @@ scheduled follow-up.
 | `.mcp.json` | Connects to Carly's hosted MCP server at `https://carlyassistant.com/mcp`. You sign in with OAuth the first time Claude uses it. |
 | `skills/carly-assistant` | Instructions for Claude: confirm results before reporting them, preview bulk changes before making them, recover from common tool errors, and send you to the right page to connect an app or get help. |
 
+The same folder is also Carly's OpenAI plugin: `.codex-plugin/plugin.json` and
+`.app.json` are its manifests, and both plugins share `skills/`.
+
 The plugin contains no code. It does not run anything on your machine and sends
 nothing anywhere except the Carly MCP server above, which acts only on the
 account you sign in with.

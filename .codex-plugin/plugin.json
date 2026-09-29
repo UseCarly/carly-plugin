@@ -1,0 +1,23 @@
+{
+  "name": "carly",
+  "version": "0.1.0",
+  "description": "Calendar, email, CRM, tasks, memory, and workflow actions from chat.",
+  "author": "Carly AI",
+  "homepage": "https://www.usecarly.com/",
+  "license": "UNLICENSED",
+  "keywords": ["calendar", "email", "crm", "scheduling", "workflows", "assistant"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Carly",
+    "shortDescription": "Calendar, email, CRM, tasks, memory, and workflow actions from chat.",
+    "longDescription": "Carly connects your calendars, Gmail and Outlook mailboxes, contacts, CRM, to-dos, files, and automation workflows to the assistant you already use. Find free time and book meetings, search and reply to mail from Carly's identity or your own mailbox, keep contacts and CRM records current, run sandboxed code over your own data, and build recurring workflows that keep working after the conversation ends.",
+    "developerName": "Carly AI",
+    "category": "productivity",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png",
+    "websiteURL": "https://www.usecarly.com/",
+    "privacyPolicyURL": "https://calbotservice.com/privacy",
+    "termsOfServiceURL": "https://calbotservice.com/terms",
+    "defaultPrompt": "Find me 30 minutes free next Tuesday afternoon."
+  }
+}
